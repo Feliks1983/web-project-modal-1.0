@@ -1,1 +1,1 @@
-https://github.com/Feliks1983/web-project-modal-1.0.git
+https://feliks1983.github.io/web-project-modal-1.0/
